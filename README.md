@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FALSIFIED NEWS DETECTION**
 
-- 🌱 I’m currently learning **Python, MERN, Flutter**
+- 🌱 I’m currently learning **Python, MERN, Java**
 
 - 💬 Ask me about **AIML**
 
