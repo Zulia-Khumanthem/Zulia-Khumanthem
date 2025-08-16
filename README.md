@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AIML**
 
-- 📫 **zulia01k@gmail.com**
+- 📫 **zuu173khuman@gmail.com**
 
 - ⚡ Fun fact **I like to travel.**
 
